@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdync",
+        "uuid": 6517602,
+        "checksum": "isvo0x"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
